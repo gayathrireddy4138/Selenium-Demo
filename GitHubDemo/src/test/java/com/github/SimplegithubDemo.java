@@ -1,5 +1,6 @@
 package com.github;
 
-public class SimplegithubDemo {
-
+public class SimplegithubDemo 
+{
+	
 }
